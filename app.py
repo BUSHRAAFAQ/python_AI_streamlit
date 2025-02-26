@@ -1,5 +1,5 @@
 import streamlit as st
-import emoji
+
 
 # title
 st.title("GIANIC [PYTHON] AI ! :airplane:")
