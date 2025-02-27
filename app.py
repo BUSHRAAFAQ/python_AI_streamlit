@@ -69,6 +69,8 @@ st.line_chart(data)
 #code
 st.text('How to install streamlit')
 st.code ('pip install streamlit')
+#upload file
+st.file_uploader("upload your file/folder")
 
 #balloons
 st.balloons()
